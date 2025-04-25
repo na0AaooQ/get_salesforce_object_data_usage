@@ -1,3 +1,10 @@
 # Logs
 logs
 *.log
+
+# env
+.env
+scripts/.env
+
+# tmp
+scripts/tmp
