@@ -1,0 +1,2 @@
+# get_salesforce_object_data_usage
+Salesforceのオブジェクト単位のデータストレージ使用量を取得するスクリプト
