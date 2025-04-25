@@ -1,2 +1,5 @@
 # get_salesforce_object_data_usage
+
 Salesforceのオブジェクト単位のデータストレージ使用量を取得するスクリプト
+
+Salesforceに接続し、標準オブジェクトとカスタムオブジェクトのレコード数とデータストレージ使用量を取得する。
